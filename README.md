@@ -1,4 +1,4 @@
 chico-themes
 ============
 
-Skin CHICO with sass
+Chico UI Skineable Components
